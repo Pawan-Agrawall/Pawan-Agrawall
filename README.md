@@ -64,7 +64,7 @@
 </p>
 
 ## 🏆My Holophin Badges:
-[![An image of @Pawan1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Pawan1)](https://holopin.io/@Pawan1)
+[![An image of @Pawan1's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/userbadge/cmclj480c045407jvj9czp5r5)](https://holopin.io/@Pawan1)
 
 ## ✍️ Random Dev Quote:
 <p align="center">
