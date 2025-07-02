@@ -72,7 +72,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/XRnbDusSE2cBG/giphy.gif" width="18%" alt="GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTc4cHZwMnNxdGJrc3E1aDVnbXFlMWt4bmF4N3ltZDdiNnlnNjF0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKs4KUXhoEYGupeI7L/giphy.gif" width="18%" alt="GIF">
 </p>
 
 
