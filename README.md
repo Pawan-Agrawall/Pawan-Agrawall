@@ -24,14 +24,10 @@
 ## 🌐 Socials:
   <p>
   <a href="https://www.linkedin.com/in/pavan-agrawal-958a4a288" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" />
-    Connect with me on LinkedIn
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="20" />
   </a>
-</p>
-<p>
   <a href="mailto:pavanagrawalofficial1@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="20" height="20" />
-    Reach me via email
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="20" />
   </a>
 </p>
 
