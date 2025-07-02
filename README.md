@@ -1,6 +1,3 @@
-<p align="center">
-<!--   <img src="https://github.com/preritasaini1/preritasaini1/assets/149650718/97729ab6-a158-4a21-83e0-0bdebee3319b" alt="git_thought"> -->
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -25,7 +22,7 @@
 
   
 ## 🌐 Socials:
-  <a href="www.linkedin.com/in/pavan-agrawal-958a4a288" target="blank"><span style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" alt="Daksh Tyagi" height="45" width="45" /></span></a>
+  <a href="www.linkedin.com/in/pavan-agrawal-958a4a288" target="blank"><span style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" alt="Pawan-Agrawall" height="45" width="45" /></span></a>
   <a href="pavanagrawalofficial1@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Pawan-Agrawall" height="45" width="45" /></a>
 </p>
 
@@ -63,8 +60,6 @@
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=Pavan1456&theme=nightowl&animated=true" />
 </p>
 
-## 🏆My Holophin Badges:
-[![An image of @Pawan1's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/userbadge/cmclj480c045407jvj9czp5r5)](https://holopin.io/@Pawan1)
 
 ## ✍️ Random Dev Quote:
 <p align="center">
