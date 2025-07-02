@@ -24,16 +24,17 @@
 ## 🌐 Socials:
   <p>
   <a href="https://www.linkedin.com/in/pavan-agrawal-958a4a288" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="20" height="20" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" />
     Connect with me on LinkedIn
   </a>
 </p>
 <p>
   <a href="mailto:pavanagrawalofficial1@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Gmail_icon.svg" alt="Gmail" width="20" height="20" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="20" height="20" />
     Reach me via email
   </a>
 </p>
+
 
 ## 📊 GitHub Stats:
 
