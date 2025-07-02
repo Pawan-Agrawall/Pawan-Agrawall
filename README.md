@@ -22,8 +22,8 @@
 
   
 ## 🌐 Socials:
-  <a href="www.linkedin.com/in/pavan-agrawal-958a4a288" target="blank"><span style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" alt="Pawan-Agrawall" height="45" width="45" /></span></a>
-  <a href="pavanagrawalofficial1@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Pawan-Agrawall" height="45" width="45" /></a>
+  [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](www.linkedin.com/in/pavan-agrawal-958a4a288) 
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/d/d5/Gmail_icon.svg)](mailto:pavanagrawalofficial1@gmail.com)
 </p>
 
 ## 📊 GitHub Stats:
