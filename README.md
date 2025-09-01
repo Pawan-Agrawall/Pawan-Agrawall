@@ -23,7 +23,7 @@
   
 ## 🌐 Socials:
   <p>
-  <a href="https://www.linkedin.com/in/pavan-agrawal-958a4a288" target="_blank">
+  <a href="https://www.linkedin.com/in/pawan-agrawal-958a4a288/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60" />
   </a>
   <a href="mailto:pavanagrawalofficial1@gmail.com">
